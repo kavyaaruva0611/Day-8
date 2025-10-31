@@ -1,0 +1,17 @@
+Task: Understanding VPN working.
+
+Tools: free Proton VPN, browser.
+
+Procedure:
+Step-1: Installed proton VPN from "https://protonvpn.com/download-windows"
+Step-2: Connected VPN and checked whether the VPN is connected by checking the ip address from the Website "whatismyipaddress.com".
+Step-3: Checked the Encryption used for the specific virtual server connected and doesnt even reflect the trace of wherebeing of the system location.
+Step-4: Now disconnected the VPN and checked for the encryption, but found no encryption and the location of the system used as well was known.
+Step-5: Checked ffor the VPN benefits offered within the settings option.
+
+Observation:
+- Helps to secure Network and be anonymous.
+- Preventing data throttling as the data consumed cannot be detected as the location and the data usage will be encrypted.
+- It helps to view the application which is banned within this country.
+
+
